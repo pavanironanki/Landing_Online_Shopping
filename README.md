@@ -1,7 +1,7 @@
-📌 Description
+#📌 Description
 This project is a single-page React application built to explore the fundamentals of React.js, state management, and routing. It consists of multiple sections and navigation functionality.
 
-📌 Pages & Functionality
+#📌 Pages & Functionality
 🟢 Navbar: A responsive navigation menu with links to different pages.
 🏡 Home Page: Landing page with a clean UI and SVG elements.
 🛠️ Services Page: Displays services with box-shadow effects.
@@ -15,7 +15,7 @@ This project is a single-page React application built to explore the fundamental
 ✅ Styled Components – Custom styling for better UI/UX.
 ✅ Footer with Mailing List & Navigation Links – Provides additional resources and a call to action.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 ⚛️ React.js – JavaScript library for UI development
 📜 JavaScript (ES6+) – Core scripting language
 🌍 React Router – For client-side routing
@@ -24,7 +24,7 @@ This project is a single-page React application built to explore the fundamental
 📌 Google Fonts – Enhancing typography
 
 
-📂 Project Structure
+#📂 Project Structure
 php
 Copy
 Edit
